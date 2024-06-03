@@ -68,7 +68,7 @@ class _GameState extends State<Game> {
                 Row(
                   children: [
                     const Text(
-                      'O  ----  ',
+                      'O  -   ',
                       style: TextStyle(
                           color: Colors.black,
                           fontSize: 25,
@@ -86,7 +86,7 @@ class _GameState extends State<Game> {
                 Row(
                   children: [
                     const Text(
-                      'X  ----  ',
+                      'X  -   ',
                       style: TextStyle(
                           color: Colors.black,
                           fontSize: 25,
