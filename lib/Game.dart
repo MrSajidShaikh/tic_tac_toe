@@ -83,6 +83,7 @@ class _GameState extends State<Game> {
                     ),
                   ],
                 ),
+
                 Row(
                   children: [
                     const Text(
