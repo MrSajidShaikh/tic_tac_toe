@@ -1,16 +1,31 @@
 # tic_tac_toe
 
-A new Flutter project.
 
-## Getting Started
+ #
 
-This project is a starting point for a Flutter application.
+<h3 align="center"> TicTacToe View </h3>
 
-A few resources to get you started if this is your first Flutter project:
+###
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="left"></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###
+<div align="center">
+<img src = "https://github.com/MrSajidShaikh/tic_tac_toe/assets/149478269/11e705f7-f093-425f-a3cc-a2332f5ec2b5" width = 22% height = 35%>
+
+###
+<div align="center">
+<a href="https://github.com/MrSajidShaikh/tic_tac_toe/blob/master/lib/Game.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div
+
+ ###
+
+<h3 align="center"> Tic Tac Toe </h3>
+
+###
+
+<div align="center">
+<video src = "https://github.com/MrSajidShaikh/tic_tac_toe/assets/149478269/d5a2222c-7d11-44c3-8ab2-2de4ff74fba1">
+
+###
+
